@@ -1,16 +1,16 @@
 # Sample localization file for English. Add more files in this directory for other locales.
 # See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
 
-en:
+de:
   spree:
-    mollie: Mollie
-    mollie_banktransfer: Banktransfer
-    mollie_banktransfer_description: Erhalte Instruktionen für eine manuelle Zahlung
-    mollie_creditcard: Kreditkarte mollie_creditcard_description: Bezahle schnell und einfach
-    mollie_processing_error: Bei der Zahlungsabwicklung is ein Fehler aufgetreten Zahlung/Rückerstattung.
-    mollie_ideal: iDEAL
-    mollie_ideal_description: Online Zahlung für Niederländische Banken
-    mollie_mistercash: Bankcontact/Mister Cash
-    mollie_mistercash_description: Online Zahlung für Belgische Banken
-    payment_has_expired: Die Zahlung ist abgelaufen.
-    payment_is_pending: Ihre Zahlung steht noch aus. Ihr Zahlung wird ausgeführt sobald diese freigegeben wurde.
+    mollie: "Mollie"
+    mollie_banktransfer: "Banktransfer"
+    mollie_banktransfer_description: "Erhalte Instruktionen für eine manuelle Zahlung"
+    mollie_creditcard: "Kreditkarte mollie_creditcard_description: Bezahle schnell und einfach"
+    mollie_processing_error: "Bei der Zahlungsabwicklung is ein Fehler aufgetreten Zahlung/Rückerstattung."
+    mollie_ideal: "iDEAL"
+    mollie_ideal_description: "Online Zahlung für Niederländische Banken"
+    mollie_mistercash: "Bankcontact/Mister Cash"
+    mollie_mistercash_description: "Online Zahlung für Belgische Banken"
+    payment_has_expired: "Die Zahlung ist abgelaufen."
+    payment_is_pending: "Ihre Zahlung steht noch aus. Ihr Zahlung wird ausgeführt sobald diese freigegeben wurde."
