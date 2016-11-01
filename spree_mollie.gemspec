@@ -2,13 +2,13 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_mollie'
-  s.version     = '3.0.0'
+  s.version     = '3.0.1'
   s.summary     = 'Spree intergration with Mollie payment service.'
   s.description = s.summary
   s.required_ruby_version = '>= 1.9.3'
 
-  s.author    = 'Jan Vereecken'
-  s.email     = 'janvereecken@clubit.be'
+  s.author    = 'Jan Vereecken, Ruslan Kuzma'
+  s.email     = 'janvereecken@clubit.be ruslankuzma@gmail.com'
   # s.homepage  = 'http://www.spreecommerce.com'
 
   #s.files       = `git ls-files`.split("\n")
