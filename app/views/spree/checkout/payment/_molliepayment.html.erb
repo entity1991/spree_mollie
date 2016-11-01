@@ -33,16 +33,7 @@
       </p>
     </div>
     <br style="clear:both;" />
-    <p class='field' data-hook='coupon_code'>
-      <%= form.label :coupon_code %><br />
-      <%= form.text_field :coupon_code %>
-    </p>
     <img src="https://www.mollie.nl/images/badge-betaling-medium.png" alt="Powered By Mollie">
+  </div>
 </fieldset>
 
-<br class="space" />
-
-<div class="form-buttons" data-hook="buttons">
-  <%= submit_tag Spree.t(:save_and_continue), :class => 'continue button primary' %>
-  <script>Spree.disableSaveOnClick();</script>
-</div>
